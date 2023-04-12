@@ -17,3 +17,5 @@ Ao longo da história, o palácio foi palco de momentos marcantes, como a assina
 Transformar a casa que abrigou a monarquia brasileira em um museu foi uma estratégia republicana para apagar os símbolos que remetiam ao período imperial.
 Além do contexto político, não podemos deixar de salientar a importância do legado artístico dessa época, a chamada arquitetura colonial.
 Dali, surgiram vários outros tipos de construção, como a barroca, a neoclássica e a eclética. 
+
+**Para ver o projeto completo:** <a> https://vanderdacosta.github.io/MuseuNacional/ </a>
